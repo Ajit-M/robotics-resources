@@ -24,7 +24,7 @@ Please feel free to send me or contributors pull requests or email at ([saurabh_
 - [Justin Huang's ROS Tutorials](https://youtube.com/playlist?list=PLJNGprAk4DF5PY0kB866fEZfz6zMLJTF8)
 - [ROS Tutorials for Beginners](https://www.youtube.com/playlist?list=PLk51HrKSBQ8-jTgD0qgRp1vmQeVSJ5SQC) **Shawn Chen**
 - [Tiziano Fiorenzani ROS Tutorials](https://www.youtube.com/playlist?list=PLuteWQUGtU9BU0sQIVqRQa24p-pSBCYNv)
-3
+
 ### ROS2
 
 - [Official ROS2 Wiki Tutorials](https://docs.ros.org/en/foxy/Tutorials.html) **Open Robotics**
