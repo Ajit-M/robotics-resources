@@ -35,8 +35,6 @@ Please feel free to send me or contributors pull requests or email at ([saurabh_
 - [ROS2 Beginner Tutorials](https://www.youtube.com/playlist?list=PLK0b4e05LnzYNBzqXNm9vFD9YXWp6honJ) **The Construct**
 - [ROS2 For Beginners (ROS Foxy - 2021)](https://www.udemy.com/course/ros2-for-beginners/?referralCode=18C75F99C1A868F0A7AB) **Edouard Renard**
 
-###
-
 
 ## Books
 
@@ -62,10 +60,9 @@ Please feel free to send me or contributors pull requests or email at ([saurabh_
   - [Eloquent Elusor](https://docs.ros.org/en/foxy/Releases/Release-Eloquent-Elusor.html)
   - [Dashing Diademata](https://docs.ros.org/en/foxy/Releases/Release-Dashing-Diademata.html)
 
-- Data Distribution Services (DDS)
-  - 
+## Middleware
 
-## Papers
+-
 
 
 ## Conferences / Presentation
